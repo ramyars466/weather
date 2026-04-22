@@ -1,0 +1,12 @@
+# Dependencies - DO NOT COMMIT
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# IDE
+.vscode/
