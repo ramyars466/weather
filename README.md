@@ -20,40 +20,7 @@ A real-time weather forecasting application that provides current weather condit
 - Node.js 18+
 - Python 3.9+
 - OpenWeatherMap API Key (free)
-## 🚀 Quick Start
-### Clone the Project
-```bash
-git clone https://github.com/YOUR_USERNAME/weather.git
-cd weather
-```
-### Backend Setup (Local)
-```bash
-# Go to backend folder
-cd backend
-# Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-venv\Scripts\activate  # Windows
-# Install dependencies
-pip install -r requirements.txt
-# Add your API key to .env file
-# OPENWEATHER_API_KEY=your_api_key_here
-# Run the backend
-python main.py
-```
-Backend runs at: **http://localhost:8000**
-### Frontend Setup (Local)
-```bash
-# Go to frontend folder
-cd frontend
-# Install dependencies
-npm install
-# Run development server
-npm run dev
-```
-Frontend runs at: **http://localhost:3000**
----
+
 ## 📁 Project Structure
 ```
 weather/
