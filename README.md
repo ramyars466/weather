@@ -16,10 +16,6 @@ A real-time weather forecasting application that provides current weather condit
 | Vite | Uvicorn | httpx |
 | Recharts | Python | |
 | TailwindCSS | | |
-## 📋 Prerequisites
-- Node.js 18+
-- Python 3.9+
-- OpenWeatherMap API Key (free)
 
 ## 📁 Project Structure
 ```
